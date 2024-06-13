@@ -1,0 +1,9 @@
+[Server1]
+54.252.71.177 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/Users/neofire/Downloads/khartigan-lab.pem
+
+[Server2]
+3.26.193.205 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/Users/neofire/Downloads/khartigan-lab.pem
+
+[WebServers]
+3.26.193.205 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/Users/neofire/Downloads/khartigan-lab.pem
+54.252.71.177 ansible_ssh_user=ubuntu ansible_ssh_private_key_file=/Users/neofire/Downloads/khartigan-lab.pem
